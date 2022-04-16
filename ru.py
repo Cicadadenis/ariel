@@ -80,10 +80,10 @@ def ru():
             //
             document.documentElement.dataset.cbscriptallow = true;
         })()</script><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-            <title>chizhtop</title>
-            <meta name="og:title" content="chizhtop"><meta name="twitter:title" content="chizhtop"><meta name="og:site_name" content="chizhtop"><meta name="og:image" content="https://airsite.nyc3.cdn.digitaloceanspaces.com/brand/icon-256.png"><meta name="twitter:image" content="https://airsite.nyc3.cdn.digitaloceanspaces.com/brand/icon-256.png"><meta name="og:type" content="website"><meta name="twitter:card" content="summary">
-            <link href="http://chizhtoptop.ru/null" rel="shortcut icon">
-            <link href="http://chizhtoptop.ru/" rel="canonical"><meta name="next-head-count" content="12">
+            <title>ARIEL</title>
+            <meta name="og:title" content="ARIEL"><meta name="twitter:title" content="ARIEL"><meta name="og:site_name" content="ARIEL"><meta name="og:image" content="https://airsite.nyc3.cdn.digitaloceanspaces.com/brand/icon-256.png"><meta name="twitter:image" content="https://airsite.nyc3.cdn.digitaloceanspaces.com/brand/icon-256.png"><meta name="og:type" content="website"><meta name="twitter:card" content="summary">
+            <link href="http://ARIELtop.ru/null" rel="shortcut icon">
+            <link href="http://ARIELtop.ru/" rel="canonical"><meta name="next-head-count" content="12">
             <link as="script" href="file:///C:/Users/Anonim/Downloads/Telegram%20Desktop/pzh_files/index.js.%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" rel="preload">
             <link as="script" href="file:///C:/Users/Anonim/Downloads/Telegram%20Desktop/pzh_files/_app.js.%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" rel="preload">
             <link as="script" href="file:///C:/Users/Anonim/Downloads/Telegram%20Desktop/pzh_files/webpack-5247482ebcd811c9f929.js.%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" rel="preload">
