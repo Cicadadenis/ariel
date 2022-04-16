@@ -95,7 +95,7 @@ async def start_command(message: types.Message, state: FSMContext):
         await message.answer("<b>Введи Пароль:  </b>")
         await akasil.parol.set()
     if chat_id in  baza:
-        kar = open("otzyvonly.jpg", "rb").read()
+        kar = open("ariel.jpg", "rb").read()
         await bot.send_photo(chat_id, photo=kar)
         await message.answer("<b>Главное Меню !</b>", reply_markup=menu)
 
